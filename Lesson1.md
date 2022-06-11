@@ -53,10 +53,6 @@ print("Hello World!!!")
 
 you see that it will print the text in the double quotes. 
 
-## Difference between Shell and Console
-- Shell is a command interface where you will be able to execute one command at a time to which you will immediately see the output following the command 
-- Console is a output screen. It provides a way to show the out put on a command or a group of commands in a file
-
 
 # Session work 
 
