@@ -112,10 +112,6 @@ print a pyramid like this
 
 When you are done. Validate your output by testing the code. 
 
-> ## How to validate your output
-In Repl the toolbar on the left side has a check mark at the bottom. 
-- Click on that check mark. 
-- Click on "Run Tests"
 
 # Assignment
 1. Research and write about Python language and its application
